@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		DC47788B279CC7140036B77C /* Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Swift; sourceTree = BUILT_PRODUCTS_DIR; };
 		DC47788E279CC7140036B77C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		DC477895279CCA1E0036B77C /* README.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		DC477882279CC7140036B77C = {
 			isa = PBXGroup;
 			children = (
+				DC477895279CCA1E0036B77C /* README.txt */,
 				DC47788D279CC7140036B77C /* Swift */,
 				DC47788C279CC7140036B77C /* Products */,
 			);
